@@ -1,5 +1,5 @@
-// Author: Woftware
-// Website: https://woftware.github.io
+// Author: Wossf
+// Website: https://wossf.github.io
 
 (function() {
   "use strict";
